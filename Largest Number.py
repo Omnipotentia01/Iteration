@@ -7,3 +7,8 @@ while new_number != -1:
     if old_number < new_number:
         old_number = new_number
 print("The largest number you typed was {0}".format(old_number))
+print ("─▄▀▀▀▄────▄▀█▀▀█▄")
+print ("▄▀─▀─▀▄▄▀█▄▀─▄▀─▄▀▄")
+print ("█▄▀█───█─█▄▄▀─▄▀─▄▀▄")
+print ("──█▄▄▀▀█▄─▀▀▀▀▀▀▀─▄█")
+print ("─────▄████▀▀▀▀████─▀▄")
